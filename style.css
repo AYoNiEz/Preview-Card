@@ -40,6 +40,7 @@ h2{
     margin-top: 40px;
     display: flex;
     justify-content: space-between;
+    margin-right: 80px;
 }
 .row > div{
     background-color: #f1f1f1;
