@@ -9,7 +9,7 @@ img{
 }
 
 .filter{
-    background: hsl(277, 99%, 32%);
+    background: hsl(277, 92%, 25%);
     border-radius: 0px 10px 10px 0px;
     width: 550px;
 }
@@ -96,7 +96,7 @@ p{
     }
     
     .filter{
-        background: hsl(277, 92%, 43%);
+        background: hsl(277, 92%, 25%);
         border-radius: 10px 10px 0px 0px;
         width: 100%;
         height: auto;
